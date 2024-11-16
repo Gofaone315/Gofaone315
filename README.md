@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Gofaone315
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript...
-- 💞️ I’m looking for collaborations.
+👋 About Me
 
-<!---
-Gofaone315/Gofaone315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Gofaone Tlalang, a passionate developer and tech enthusiast constantly striving to learn and grow in the world of programming.
+
+👀 Interests
+
+Programming, problem-solving, and exploring new technologies.
+
+Building interactive and user-friendly applications.
+
+Sharing knowledge and collaborating on innovative projects.
+
+
+🌱 Currently Learning
+
+Languages: Python, C++, HTML, CSS, and JavaScript.
+
+Frameworks: Diving deeper into web and software development tools.
+
+
+💞️ Open to Collaborations
+
+I'm eager to collaborate on meaningful projects, whether it's open-source, startups, or learning-focused ventures. Let's build something amazing together!
+
